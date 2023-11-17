@@ -4,8 +4,8 @@
 I'm a Front-end Developer 👩‍💻 and Hobby Photographer 📸from the Netherlands, based in Charlotte, NC. 
 
 * ⌨ I love developing creative websites, apps, and meeting new people. 
-- 🌻 I am working as a Front-end developer and contributing to building responsive websites.
-- ⚡ In my free time, I like to read and paint.
+* 🌻 I am working as a Front-end developer and contributing to building responsive websites.
+* ⚡ In my free time, I like to read and paint.
   
 ## Connect with me
 
