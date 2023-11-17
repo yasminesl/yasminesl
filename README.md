@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there! I'm Yasmine 👋
 
+About me:
+I'm a Front-end Developer 👩‍💻 and Hobby Photographer 📸from the Netherlands, based in Charlotte, NC. 
+I love developing creative websites, apps, and meeting new people. 
+
+Connect with me: 
+- 🌻 I am working as a Front-end developer and contributing to building responsive websites.
+- ⚡ In my free time, I like to read and paint. 
+- 📧 You can reach me: 
 <!--
 **yasminesl/yasminesl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
